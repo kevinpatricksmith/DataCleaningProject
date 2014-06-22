@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Introduction 
 
 The run_analysis.R file is intended to work with the Human Activity Recognition 
@@ -88,3 +89,9 @@ You can read back in this file into R using:
 dataReadbackin <- read.table(filenameStep4,sep=",", header=TRUE)
 
 
+=======
+DataCleaningProject
+===================
+
+Data Cleaning project repo
+>>>>>>> 9441af14482697a27e095cb72f435ba468036b56
