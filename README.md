@@ -85,6 +85,6 @@ The resulting data frame has 180 x 68 result set
 Write.table is used to write this data frame as a comma separated .TXT file with the column names in the header.
 
 You can read back in this file into R using:
-dataReadbackin <- read.table(filenameStep4,sep=",", header=TRUE)
+dataReadbackin <- read.table("project_step4_tidy_data_mean_and_std.txt",sep=",", header=TRUE)
 
 
